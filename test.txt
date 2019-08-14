@@ -7,3 +7,4 @@ sjsjsjsjsjsj
 hhhhhhh
 >>>>>>> master
 version1
+version2
